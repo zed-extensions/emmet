@@ -24,4 +24,4 @@ languages = ["HTML", "PHP", "ERB", "HTML+ERB", "HTML/ERB", "JavaScript", "TSX", 
 "HEEX" = "heex"
 "Elixir" = "heex"
 "Vue.js" = "vue"
-"Nunjucks" = "nunjucks"
+"Nunjucks" = "html"
