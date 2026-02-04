@@ -732,7 +732,7 @@ dependencies = [
 
 [[package]]
 name = "zed_emmet"
-version = "0.0.9"
+version = "0.0.10"
 dependencies = [
  "zed_extension_api",
 ]

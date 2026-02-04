@@ -1,7 +1,7 @@
 id = "emmet"
 name = "Emmet"
 description = "Emmet support"
-version = "0.0.9"
+version = "0.0.10"
 schema_version = 1
 authors = ["Piotr Osiewicz <piotr@zed.dev>"]
 repository = "https://github.com/zed-extensions/emmet"
@@ -9,7 +9,7 @@ repository = "https://github.com/zed-extensions/emmet"
 [language_servers.emmet-language-server]
 name = "Emmet Language Server"
 language = "HTML"
-languages = ["HTML", "PHP", "Blade", "ERB", "HTML+ERB", "HTML/ERB", "JavaScript", "TSX", "CSS", "SCSS", "LESS", "HEEX", "Elixir", "Vue.js", "Nunjucks", "Django", "Angular"]
+languages = ["HTML", "PHP", "Blade", "ERB", "HTML+ERB", "HTML/ERB", "JavaScript", "TSX", "CSS", "SCSS", "LESS", "HEEX", "Elixir", "Vue.js", "Nunjucks", "Django", "Angular", "Twig"]
 
 [language_servers.emmet-language-server.language_ids]
 "HTML" = "html"
@@ -29,3 +29,4 @@ languages = ["HTML", "PHP", "Blade", "ERB", "HTML+ERB", "HTML/ERB", "JavaScript"
 "Nunjucks" = "html"
 "Angular" = "angular"
 "Django" = "html"
+"Twig" = "html"
