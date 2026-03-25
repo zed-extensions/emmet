@@ -14,7 +14,6 @@ languages = [
     "Blade",
     "ERB",
     "HTML+ERB",
-    "HTML/ERB",
     "JavaScript",
     "TSX",
     "CSS",
@@ -22,7 +21,6 @@ languages = [
     "LESS",
     "Elixir",
     "HEEx",
-    "HEEX",
     "Vue.js",
     "Nunjucks",
     "Django",
@@ -35,7 +33,6 @@ languages = [
 "PHP" = "php"
 "Blade" = "blade"
 "ERB" = "eruby"
-"HTML/ERB" = "eruby"
 "HTML+ERB" = "eruby"
 "JavaScript" = "javascriptreact"
 "TSX" = "typescriptreact"
@@ -44,7 +41,6 @@ languages = [
 "LESS" = "less"
 "Elixir" = "elixir"
 "HEEx" = "heex"
-"HEEX" = "heex"
 "Vue.js" = "vue"
 "Nunjucks" = "html"
 "Angular" = "angular"
