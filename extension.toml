@@ -8,23 +8,39 @@ repository = "https://github.com/zed-extensions/emmet"
 
 [language_servers.emmet-language-server]
 name = "Emmet Language Server"
-language = "HTML"
-languages = ["HTML", "PHP", "Blade", "ERB", "HTML+ERB", "HTML/ERB", "JavaScript", "TSX", "CSS", "SCSS", "LESS", "HEEX", "Elixir", "Vue.js", "Nunjucks", "Django", "Angular", "Jinja2"]
+languages = [
+    "HTML",
+    "PHP",
+    "Blade",
+    "ERB",
+    "HTML+ERB",
+    "JavaScript",
+    "TSX",
+    "CSS",
+    "SCSS",
+    "LESS",
+    "Elixir",
+    "HEEx",
+    "Vue.js",
+    "Nunjucks",
+    "Django",
+    "Angular",
+    "Jinja2",
+]
 
 [language_servers.emmet-language-server.language_ids]
 "HTML" = "html"
 "PHP" = "php"
 "Blade" = "blade"
 "ERB" = "eruby"
-"HTML/ERB" = "eruby"
 "HTML+ERB" = "eruby"
 "JavaScript" = "javascriptreact"
 "TSX" = "typescriptreact"
 "CSS" = "css"
 "SCSS" = "scss"
 "LESS" = "less"
-"HEEX" = "heex"
-"Elixir" = "heex"
+"Elixir" = "elixir"
+"HEEx" = "heex"
 "Vue.js" = "vue"
 "Nunjucks" = "html"
 "Angular" = "angular"
