@@ -26,6 +26,7 @@ languages = [
     "Django",
     "Angular",
     "Jinja2",
+    "Liquid",
 ]
 
 [language_servers.emmet-language-server.language_ids]
@@ -46,3 +47,4 @@ languages = [
 "Angular" = "angular"
 "Django" = "html"
 "Jinja2" = "html"
+"Liquid" = "html"
