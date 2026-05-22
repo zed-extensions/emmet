@@ -27,6 +27,7 @@ languages = [
     "Angular",
     "Jinja2",
     "Liquid",
+    "Statamic Antlers",
 ]
 
 [language_servers.emmet-language-server.language_ids]
@@ -48,3 +49,4 @@ languages = [
 "Django" = "html"
 "Jinja2" = "html"
 "Liquid" = "html"
+"Statamic Antlers" = "html"
