@@ -9,44 +9,44 @@ repository = "https://github.com/zed-extensions/emmet"
 [language_servers.emmet-language-server]
 name = "Emmet Language Server"
 languages = [
-    "HTML",
-    "PHP",
+    "Angular",
     "Blade",
-    "ERB",
-    "HTML+ERB",
-    "JavaScript",
-    "TSX",
     "CSS",
-    "SCSS",
-    "LESS",
+    "Django",
+    "ERB",
     "Elixir",
     "HEEx",
-    "Vue.js",
-    "Nunjucks",
-    "Django",
-    "Angular",
+    "HTML",
+    "HTML+ERB",
+    "JavaScript",
     "Jinja2",
+    "LESS",
     "Liquid",
+    "Nunjucks",
+    "PHP",
+    "SCSS",
     "Statamic Antlers",
+    "TSX",
+    "Vue.js",
 ]
 
 [language_servers.emmet-language-server.language_ids]
-"HTML" = "html"
-"PHP" = "php"
+"Angular" = "angular"
 "Blade" = "blade"
-"ERB" = "eruby"
-"HTML+ERB" = "eruby"
-"JavaScript" = "javascriptreact"
-"TSX" = "typescriptreact"
 "CSS" = "css"
-"SCSS" = "scss"
-"LESS" = "less"
+"Django" = "html"
+"ERB" = "eruby"
 "Elixir" = "elixir"
 "HEEx" = "heex"
-"Vue.js" = "vue"
-"Nunjucks" = "html"
-"Angular" = "angular"
-"Django" = "html"
+"HTML" = "html"
+"HTML+ERB" = "eruby"
+"JavaScript" = "javascriptreact"
 "Jinja2" = "html"
+"LESS" = "less"
 "Liquid" = "html"
+"Nunjucks" = "html"
+"PHP" = "php"
+"SCSS" = "scss"
 "Statamic Antlers" = "html"
+"TSX" = "typescriptreact"
+"Vue.js" = "vue"
