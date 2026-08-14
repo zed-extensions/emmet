@@ -15,6 +15,7 @@ languages = [
     "Django",
     "ERB",
     "Elixir",
+    "Handlebars",
     "HEEx",
     "HTML",
     "HTML+ERB",
@@ -37,6 +38,7 @@ languages = [
 "Django" = "html"
 "ERB" = "eruby"
 "Elixir" = "elixir"
+"Handlebars" = "html"
 "HEEx" = "heex"
 "HTML" = "html"
 "HTML+ERB" = "eruby"
