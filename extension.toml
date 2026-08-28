@@ -27,6 +27,7 @@ languages = [
     "SCSS",
     "Statamic Antlers",
     "TSX",
+    "Twig",
     "Vue.js",
 ]
 
@@ -49,4 +50,5 @@ languages = [
 "SCSS" = "scss"
 "Statamic Antlers" = "html"
 "TSX" = "typescriptreact"
+"Twig" = "twig"
 "Vue.js" = "vue"
