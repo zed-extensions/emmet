@@ -30,6 +30,10 @@ languages = [
     "Twig",
     "Vue.js",
 ]
+opt_in_languages = [
+    "ERB",
+    "Elixir",
+]
 
 [language_servers.emmet-language-server.language_ids]
 "Angular" = "angular"
