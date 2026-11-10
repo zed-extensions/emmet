@@ -26,6 +26,7 @@ languages = [
     "PHP",
     "SCSS",
     "Statamic Antlers",
+    "Tera (HTML)",
     "TSX",
     "Twig",
     "Vue.js",
@@ -53,6 +54,7 @@ opt_in_languages = [
 "PHP" = "php"
 "SCSS" = "scss"
 "Statamic Antlers" = "html"
+"Tera (HTML)" = "tera-html"
 "TSX" = "typescriptreact"
 "Twig" = "twig"
 "Vue.js" = "vue"
