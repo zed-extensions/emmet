@@ -29,6 +29,7 @@ languages = [
     "TSX",
     "Twig",
     "Vue.js",
+    "Tera (HTML)",
 ]
 opt_in_languages = [
     "ERB",
@@ -56,3 +57,4 @@ opt_in_languages = [
 "TSX" = "typescriptreact"
 "Twig" = "twig"
 "Vue.js" = "vue"
+"Tera (HTML)" = "tera-html"
